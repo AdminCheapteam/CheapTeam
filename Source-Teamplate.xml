@@ -4173,7 +4173,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
       <b:section class='header-logo' id='header-logo' maxwidgets='1' name='Header Logo' showaddelement='yes'>
         <b:widget id='Header1' locked='true' title='Infinity (Header)' type='Header' version='2' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='displayUrl'>http://3.bp.blogspot.com/-Wt1H6igBSGU/YF7dMqhYzeI/AAAAAAAAKXA/_bhmJIKtNlc9A65_y_R-qFP1ego_TYSAwCK4BGAYYCw/s1600/Infinity-Logo.png</b:widget-setting>
+            <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yB5VJmaKObt2clarCcNhoDD0uBY4-QBHEJeHNgFzLz0yAZz3jms-IPWUqUdIPb80YAUWZgWDmRxgNjHVDqv3up94Hpxxqehm_b-C09TE2hZLMWaOl9zDEwZeUwwyBlSqXJm_7HTQAzHcrpkvNWaUv_AIIrsgfnxxQbRT5FwLjMxgjq85C64snWvC_g/s196/logongang.png</b:widget-setting>
             <b:widget-setting name='displayHeight'>38</b:widget-setting>
             <b:widget-setting name='sectionWidth'>390</b:widget-setting>
             <b:widget-setting name='useImage'>true</b:widget-setting>
@@ -4312,7 +4312,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
     <!-- Featured Slider -->
     <div id='intro-wrap'>
       <b:section class='full-height' id='main-intro' maxwidgets='2' name='Main Intro' showaddelement='no'>
-        <b:widget id='Image1' locked='true' title='We Are Infity, We Are Best.' type='Image' version='2' visible='true'>
+        <b:widget id='Image1' locked='true' title='We Are CheapTeam, We Are Best.' type='Image' version='2' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='displayUrl'>http://3.bp.blogspot.com/-7GJEhml_utw/YFdQwWxwSpI/AAAAAAAAKUU/gxfTW52L1Y08C_n16t92eTmTmnXxbmHTACK4BGAYYCw/s1600/home_page_header-2.jpg</b:widget-setting>
             <b:widget-setting name='displayHeight'>1200</b:widget-setting>
@@ -5802,14 +5802,14 @@ height: 100%;
           </b:widget>
         </b:section>
         <b:section class='wow slideInRight editorial-authors' id='editorial-box' maxwidgets='3' name='Author Info' showaddelement='no'>
-          <b:widget id='Image23' locked='true' title='Janie Doe' type='Image' version='2' visible='true'>
+          <b:widget id='Image23' locked='true' title='Do Nguyen' type='Image' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='displayUrl'>https://1.bp.blogspot.com/-RzmpAc0i95Y/YGCCGNPvw_I/AAAAAAAAG5Q/wQcgC6y6xcgJ6eGfXSxiyr8FuFQQfadIwCLcBGAsYHQ/s16000/team1.jpg</b:widget-setting>
+              <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQnPsZ1P2fuwipVMEXhSzhOnJ93hwndBXrfxIw6CYehVQLCUl3b88B7d_X8wOdTRLxrw1aYasugLfOybyROyvJL1c4JFjGqYvI7UelgB2W3S7V8_f4_5VR7WyoRaSQFnfnbkVSaBgVrTvZ2-ozteyXcft_8fc8DGTmjNk0BFn5ursYrzYiz0DhXXcm9Q/s540/Avar_Do.png</b:widget-setting>
               <b:widget-setting name='displayHeight'>540</b:widget-setting>
               <b:widget-setting name='sectionWidth'>790</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='displayWidth'>368</b:widget-setting>
-              <b:widget-setting name='link'>UI Designer</b:widget-setting>
+              <b:widget-setting name='link'>Leader</b:widget-setting>
               <b:widget-setting name='caption'>Leave Blank</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
@@ -5830,14 +5830,14 @@ height: 100%;
               </div>
             </b:includable>
           </b:widget>
-          <b:widget id='Image19' locked='true' title='Katie Fox' type='Image' version='2' visible='true'>
+          <b:widget id='Image19' locked='true' title='Toan Tran' type='Image' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='displayUrl'>https://1.bp.blogspot.com/-RH7KMuEcSvI/YGCCGCO75XI/AAAAAAAAG5I/lRxA72hzFeoFvTmJoODaJm_VKQwJAcpTACLcBGAsYHQ/s16000/team2.jpg</b:widget-setting>
+              <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNhdeVSsrJEqISEpcegMP1sIlSlyXDTInZFnNKm4ZK1XN643sfO71kK_soexjKTXEFTXITXvpJynJqblXNuhUzBhyqUHQkRNWuZZr0ufdoOLzfL09-pRgKUpARqCRL9LWVYvfhPhQowH_P2ZzI0WkMYoWA6_-j3aWW7c-5wgAsEjBdqSLAQvcfGOy1Yg/s540/Avar_Toan.png</b:widget-setting>
               <b:widget-setting name='displayHeight'>540</b:widget-setting>
               <b:widget-setting name='sectionWidth'>790</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='displayWidth'>368</b:widget-setting>
-              <b:widget-setting name='link'>Fashion Blogger</b:widget-setting>
+              <b:widget-setting name='link'>Developer</b:widget-setting>
               <b:widget-setting name='caption'>Leave Blank</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
@@ -5858,14 +5858,14 @@ height: 100%;
               </div>
             </b:includable>
           </b:widget>
-          <b:widget id='Image20' locked='true' title='Melisa Edwards' type='Image' version='2' visible='true'>
+          <b:widget id='Image20' locked='true' title='Duy Dang' type='Image' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='displayUrl'>https://1.bp.blogspot.com/-RyE3_eNhntc/YGCCGKU1WvI/AAAAAAAAG5M/m80pcigvT4A76c52QxwEALASJJqH3UfRQCLcBGAsYHQ/s16000/team3.jpg</b:widget-setting>
+              <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTKPrcf7Et-ADHtXCCTflCghNJGBRZCnZLW3puxCMVayfyIiSApriUCOhGGkpcG4LVzheIx0Ih9PVG5HR8sbjcwsVMr_qGrFwmr-qEoFmZxNHLx26Lg5g1OQNTq7aNTsCzzfN02lIO3cfTTDa39P1tc3OQlV4ssVH1bu7A5kU1lFdIUX5l7PdUiW6FrQ/s540/Avar_Duy.png</b:widget-setting>
               <b:widget-setting name='displayHeight'>540</b:widget-setting>
               <b:widget-setting name='sectionWidth'>790</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='displayWidth'>368</b:widget-setting>
-              <b:widget-setting name='link'>Food Critic</b:widget-setting>
+              <b:widget-setting name='link'>Developer</b:widget-setting>
               <b:widget-setting name='caption'>Leave Blank</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
@@ -5982,7 +5982,7 @@ height: 100%;
   </div>
   <div class='wow slideInLeft map-me'>
 <div id='map'>
- <iframe allowfullscreen='' class='map' src='https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=48.858260200000004, 2.2944990543196795&amp;q=eiffel%20tower+(SoraTemplates)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed' style='border:0'/>
+ <iframe allowfullscreen='' class='map' src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62860.622741103216!2d105.72255086760377!3d10.03426963299133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a0629f6de3edb7%3A0x527f09dbfb20b659!2zQ-G6p24gVGjGoSwgTmluaCBLaeG7gXUsIEPhuqduIFRoxqEsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1658107324384!5m2!1svi!2s' style='border:0'/>
 </div>
 </div>
  <div class='clearfix'/>
